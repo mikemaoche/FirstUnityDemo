@@ -1,5 +1,5 @@
 # FirstUnityDemo
-Generate a small piece of map, collider2D, one character can move and jump and some animation. I just copy past the character controller and player movement.
+Generate a small map piece, added some collider2D, one character can move and jump. Tiles have some animation. The character controller and player movement have been copied from another project.
 
 Welcome to this project ! Made from scratch
 
